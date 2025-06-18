@@ -1,0 +1,1 @@
+ build\\web\\manifest.json:  C:\\Users\\nctai\\wedding_rsvp_web\\web\\index.html C:\\Users\\nctai\\wedding_rsvp_web\\web\\manifest.json
