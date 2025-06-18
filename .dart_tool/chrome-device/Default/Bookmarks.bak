@@ -1,0 +1,858 @@
+{
+   "checksum": "de5a81e10e29549462076a85d42152f9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13394617451046646",
+            "date_last_used": "0",
+            "guid": "3f42dacf-536f-49cc-bbb6-0cffc3022a8f",
+            "id": "75",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13394617451046398",
+            "date_last_used": "0",
+            "guid": "4b86a997-316b-4eaa-aa93-24ad950c1bc9",
+            "id": "74",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13394617451046011",
+            "date_last_used": "0",
+            "guid": "49be67d6-dee1-49e2-afc3-b3d063a8f6ed",
+            "id": "73",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=246817",
+            "visit_count": 0
+         }, {
+            "date_added": "13394615176293399",
+            "date_last_used": "0",
+            "guid": "f898a082-58cd-4801-8f76-750283a5ce76",
+            "id": "71",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13394615176293047",
+            "date_last_used": "0",
+            "guid": "68a2d784-d5ec-4c23-a626-3b51da0f0bcc",
+            "id": "70",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13394615176292514",
+            "date_last_used": "0",
+            "guid": "35b88649-6da5-4f8c-8fc9-7f1e1a90a136",
+            "id": "69",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=246817",
+            "visit_count": 0
+         }, {
+            "date_added": "13289062146065348",
+            "date_last_used": "0",
+            "guid": "d1ecbeed-4cda-476c-a097-8584d63bd404",
+            "id": "24",
+            "name": "Treasure_of_Nadia-v1.0112-Viet_Hoa_G18VN.rar ~ pixeldrain",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pixeldrain.com/u/Qjzn91M3",
+            "visit_count": 0
+         }, {
+            "date_added": "13305731617803845",
+            "date_last_used": "13341683956217274",
+            "guid": "0c4b24d5-1de9-43e1-9b12-fcc929a6d41b",
+            "id": "25",
+            "name": "(2) Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/photo/?fbid=311318254430925",
+            "visit_count": 0
+         }, {
+            "date_added": "13305916553511865",
+            "date_last_used": "0",
+            "guid": "1ab331f7-ce13-4fc1-8bac-f84426e34284",
+            "id": "26",
+            "name": "Elden Ring Map | Elden Ring Wiki",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://eldenring.wiki.fextralife.com/Interactive+Map?fbclid=IwAR3IKcqFugrv-zEXjoIBSXepo-kAeqVYJfnnOUkenJYTCG39HFRTG-_AI6w",
+            "visit_count": 0
+         }, {
+            "date_added": "13306698807695065",
+            "date_last_used": "0",
+            "guid": "7a44575d-0723-4b9a-b1ac-415532b69357",
+            "id": "27",
+            "name": "(412) Ranger Loadouts Guide - Calamity Mod v2.0 (Terraria 1.4 Update) - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Bip0pOYc1VE",
+            "visit_count": 0
+         }, {
+            "date_added": "13313248079599539",
+            "date_last_used": "0",
+            "guid": "f2ecde7f-d857-403a-9c19-3af6ac9c2efa",
+            "id": "28",
+            "name": "(649) 9 EASY Steps to create a multiplayer game with Unity & Photon - Tutorial - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=93SkbMpWCGo",
+            "visit_count": 0
+         }, {
+            "date_added": "13313659150974268",
+            "date_last_used": "0",
+            "guid": "bd251c6f-813d-4413-bcb8-2f1eb451539b",
+            "id": "29",
+            "name": "(662) Unity - Photon Networking v1 - Part 14 - RaiseEvent - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=r7YmrPdCFZ4&list=PLkx8oFug638qVMIrtqOnwmqnW6o8WDgQ1&index=15",
+            "visit_count": 0
+         }, {
+            "date_added": "13317220171167095",
+            "date_last_used": "0",
+            "guid": "915e74b8-362d-4abb-83a7-ee0d61b60459",
+            "id": "30",
+            "name": "Danh mục môn học | Cổng thông tin đào tạo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://daa.uit.edu.vn/danh-muc-mon-hoc-dai-hoc?fbclid=IwAR0BfzfryAoE-i9khSOFQe1WkcHPfg1r4Xx_JdC836rXnyrmrXQFD5HkxpE",
+            "visit_count": 0
+         }, {
+            "date_added": "13322845984342872",
+            "date_last_used": "0",
+            "guid": "0ebdb21d-0cf5-4481-b5c4-c83691131fdb",
+            "id": "31",
+            "name": "thảo luận - Cùng học và chia sẻ tài liệu Flutter | Page 4 | theNEXTvoz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://voz.vn/t/cung-hoc-va-chia-se-tai-lieu-flutter.26885/page-4#post-3528047",
+            "visit_count": 0
+         }, {
+            "date_added": "13322935110818938",
+            "date_last_used": "0",
+            "guid": "e9a95f3d-8b7c-4083-b0bf-3a26975258e6",
+            "id": "32",
+            "name": "How to Learn Flutter in 2020",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/how-to-learn-flutter-in-2020/",
+            "visit_count": 0
+         }, {
+            "date_added": "13323003774371259",
+            "date_last_used": "0",
+            "guid": "02923f0b-b118-42f8-bf4d-6236d3aab34c",
+            "id": "33",
+            "name": "(144) Flutter Tutorial for Beginners #5 - Scaffold & AppBar Widgets - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=C5lpPjoivaw&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=5",
+            "visit_count": 0
+         }, {
+            "date_added": "13323331389402740",
+            "date_last_used": "0",
+            "guid": "e1c9073d-0228-499d-bc2f-230d08fbdf1e",
+            "id": "34",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "428e3f9c-5799-4403-99bd-ddacb9d737cd",
+            "id": "35",
+            "name": "Genshin Impact - Kề Vai Sát Cánh",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://webstatic-sea.mihoyo.com/ys/event/e20210901people/index.html?auth_appid=e20210901invite&sign_type=2&authkey_ver=1&game_biz=hk4e_global&bbs_landscape=true&mhy_presentation_style=fullscreen&mhy_landscape=true&utm_source=ingame&utm_medium=tedian&lang=vi&device_type=pc&ext=%7b%22loc%22%3a%7b%22x%22%3a-3010.239013671875%2c%22y%22%3a221.38375854492188%2c%22z%22%3a-4370.8583984375%7d%2c%22platform%22%3a%22WinST%22%7d&game_version=OSRELWin2.1.0_R4073622_S4168190_D4205170&authkey=cSf0QHyuxiuhVnGPmlA3KISQCM7%2beAOunrDxUBULa4nnoSM9vuyIJGGD%2fFMAuttIbSVyDcxqRgyi7BID1kZP9dwr9%2fi5c0RXoYcaW0AJpSER5EtODAR%2fiEyPFluQynFBy9s2rgOlumF5bqTvYYgyfdBi%2bVXT9fWVGyxVFrHoGoHxK8l1ECI1RNKbeHqpG34VcvdZXp%2b67PkNO%2ftVsatSmAQkYqtrsFg8i8KYFPPdNMQdGInGD%2fL5zapmFMzwaxOX4KDNriiIEV34kEK09RvHTXYV3Sa0UpRNtDW87InfrWCvhGZs%2bPVrYymHVPg5Ygsob7YTCVT6yxHkrS1Un1WPIcJ%2bOpKgMqg9tiYYKM44Ni4zf2biEQdhTVzmjwcWhFWCwgwAMuPhCFeiHQpZ%2b7Kd5BW6PjvQM7ZSYUL8N0ArsT%2fD%2fGZKQn2UThr2laG3xGjy1AFA8x632cXR9oL4qY7M3gxKJmelCWGHk6AFCrV%2bvlNh86euk6PRgYiQHvIY8Tm7jV3HoDKiMLY05KP%2b3QGFXSCdUPhGB4S1DcO8D6nPIdp%2fkakgjaO5mZwvBLGpUdOl%2bvZXIntxa%2fRGyvixLCShR1dYoj%2fSF85E9k8ho1ksd8Hu7UB00laox17m4jvF3%2fhvHGyovpcj7ijHZ29FpyEwBrigEp1BM4SD2bLgLWHj8HMhL6t6o8XL8psHw0jFn6U62wPwNimUzofuPeDwZjWMQjJ66hOqzMhShMEEpoREz1irMef0TUX4ncWCfwgqtzbW7lbFM06OP%2fM0yg7e%2bbx5ciavNCSVDzVESGCNekp5BkIlvkLcqdgRkSwm64YUNQgZaV0wVOv8mEaxA8bOej2LP84TSCvi8v4NAQeIgFV1GI5pTntlI7ktKV3riv7Ow8kzCjfKBCAnVb5rHXMO1945PaDG02cf%2fWxJrc2Pi5WW1P%2fHbTXSbco%2fV5Lve1oKFsmz391pWDM2ZPOVf3N0aKLDmRjHDsloqUQZwpu7nuvetB1o1RziFH%2fQFQ4b7aU07HNLV8rbBUmc%2bAHlo8Pl3XEMegnWODQ0HhQogsO9C0PWoRofhwfIXMWBKVk2f9AKcj3I11717HNzNJp1Lv7DHbGfpHvRgelkaPzo2%2bE7MOV295mfWrIL5eeEVzxE8IxbqtVz69iYeoUc%2fnI8XO2OFwKnMM4GCZImF0vIftSlow%2fYSOcNIsThOARY7XDXtMTQlIwDZTqzySs6Y8gslooLSZe6NzFGJen9Wxn0gH2vtP3jjw%2fpvpnhYoz9l7iZIaLJZ2s8obm0nGhpf8YgYpR%2fb8aABXzCgi2MfsHIKPzWf4Vsu6TE492xPT9NNokVbSG9wFNVbYgkDwo%2b%2b4wGU2QTJCe%2feA%3d%3d#/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "7f7b713a-6bbc-41fb-8e21-166c7845f1f4",
+            "id": "36",
+            "name": "[Vinaphone] Sim data dung lượng cao 3GB/ngày trong 30 ngày nhưng giá chỉ 50k/tháng - UIT - Forum",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://forum.uit.edu.vn/node/552759?fbclid=IwAR2coEtmZ4y4eHIu7HnptjFw6MRjIoLq4YMLWcA7K1H_NU9p0B33HbbuVBo",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "9a4f4504-9453-4dca-95c9-75b88aab67e4",
+            "id": "37",
+            "name": "(5) B - Danh sách liên kết đơn - Phần 01 - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=hJZyx17hpQM&list=PLjzaUXKQiFUScR7eqEntIWspaRaanghQ4&index=1",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "737ef22f-f5c6-40f6-8c77-00c2e47670d2",
+            "id": "38",
+            "name": "Cách chia, gộp ổ cứng máy tính Windows 10 cực dễ, không lo mất dữ liệu | Thủ Thuật Plus ✅",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://thuthuatplus.com/cach-chia-gop-o-cung-may-tinh-windows-10-cuc-de-khong-lo-mat-du-lieu/?fbclid=IwAR0BYQ6_SY6ddIhcgfXFl1pkCxMscZ5QUw_gY_cXpPu2SCAXIiTaTMSO_JU",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "1ff162d6-1c1a-4034-aadb-1ba4d5390c6b",
+            "id": "39",
+            "name": "  ",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://static.edupia.vn/exercises/bai14/images/imgwin/try.png",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "13dfd821-d46f-4c5e-9541-a96491bcb26f",
+            "id": "40",
+            "name": "Home.vn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://home.vn/pf",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "64166deb-0257-43b3-b47d-4de262f097bf",
+            "id": "41",
+            "name": "Bookmarks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://bookmarks/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "23d07cb0-dc3b-490f-aced-2f260ed2ebf6",
+            "id": "42",
+            "name": "Download IntelliJ IDEA: The Capable & Ergonomic Java IDE by JetBrains",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.jetbrains.com/idea/download/#section=windows",
+            "visit_count": 0
+         }, {
+            "date_added": "13331634438158627",
+            "date_last_used": "0",
+            "guid": "832c22d7-0c05-4d0b-975e-7d9dc0479f7c",
+            "id": "43",
+            "name": "AmongGoose - OneDrive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://uithcm-my.sharepoint.com/personal/20520481_ms_uit_edu_vn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F20520481%5Fms%5Fuit%5Fedu%5Fvn%2FDocuments%2FAmongGoose&ga=1",
+            "visit_count": 0
+         }, {
+            "date_added": "13340707243819277",
+            "date_last_used": "0",
+            "guid": "fa8d865d-742f-4eb4-bf20-6f33b69c6110",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Office 2021 - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1EFyBoifVgVv8Owg2EYZCqYfBJWC3zzI5",
+            "visit_count": 0
+         }, {
+            "date_added": "13341303488651788",
+            "date_last_used": "0",
+            "guid": "f5c608e7-888a-4682-b001-318ca7567b78",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Copy of Minimalist Business Slides XL by Slidesgo - Google Trang trình bày",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/1odOhwbdxyKIIbCyGhBbDacTBWz8OLYLNBoqWoGot9qA/edit#slide=id.g289ea783ca4_0_11",
+            "visit_count": 0
+         }, {
+            "date_added": "13341303587072620",
+            "date_last_used": "0",
+            "guid": "b9c68fe6-a8e9-4ec2-b0b9-18ad8fcdc5a0",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Copy of Minimalist Business Slides XL by Slidesgo - Google Trang trình bày",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/1odOhwbdxyKIIbCyGhBbDacTBWz8OLYLNBoqWoGot9qA/edit#slide=id.g289ea783ca4_0_18",
+            "visit_count": 0
+         }, {
+            "date_added": "13341304322371865",
+            "date_last_used": "0",
+            "guid": "84817766-7009-45b5-86f6-7cf9d31aca61",
+            "id": "47",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Copy of Minimalist Business Slides XL by Slidesgo - Google Trang trình bày",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/1odOhwbdxyKIIbCyGhBbDacTBWz8OLYLNBoqWoGot9qA/edit#slide=id.g289ea783ca4_0_32",
+            "visit_count": 0
+         }, {
+            "date_added": "13341309331409298",
+            "date_last_used": "13393694912877755",
+            "guid": "f195ff32-00dc-4708-a7ce-9cbd49931957",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Copy of Minimalist Business Slides XL by Slidesgo - Google Trang trình bày",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/presentation/d/1odOhwbdxyKIIbCyGhBbDacTBWz8OLYLNBoqWoGot9qA/edit#slide=id.g289ea783ca4_0_103",
+            "visit_count": 1
+         }, {
+            "date_added": "13354590962918928",
+            "date_last_used": "0",
+            "guid": "7c539d18-74d4-419a-b745-bd6e1097ec35",
+            "id": "49",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Seminar các vấn đề hiện đại của CNPM.xlsx - Google Trang tính",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1tftUlM00xRce4wL-D5xSNoOUFKn7OlQl/edit#gid=747822581",
+            "visit_count": 0
+         }, {
+            "date_added": "13354591000506762",
+            "date_last_used": "0",
+            "guid": "76489dab-67b1-4e20-b5fd-10f483d40970",
+            "id": "50",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Seminar PM - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1Rc4_Hs1F3KT-1qObO4iWoyvz2m9juOy5",
+            "visit_count": 0
+         }, {
+            "date_added": "13355004085754131",
+            "date_last_used": "0",
+            "guid": "97f6a59b-558d-4b88-ac19-f079ba132d71",
+            "id": "51",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Đăng nhập - J2TEAM Security Premium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://j2team.org/auth",
+            "visit_count": 0
+         }, {
+            "date_added": "13358265999592200",
+            "date_last_used": "0",
+            "guid": "71cdba84-d89f-4223-a53a-c6cf90407026",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "st",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/nctai/Downloads/5.%20Dive%20Into%20Design%20Patterns.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13358788081939274",
+            "date_last_used": "13388215701678582",
+            "guid": "2cfea881-d710-4927-b0af-b0e2a29b2b2d",
+            "id": "53",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Untitled – Figma",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.figma.com/file/k3dKLv4njTgRCdCZ5B8vBV/Untitled?type=design&node-id=0-1&mode=design&t=daPEVyYGxwmwVi4S-0",
+            "visit_count": 1
+         }, {
+            "date_added": "13358788086351310",
+            "date_last_used": "13359036438010797",
+            "guid": "5d65d92e-1749-4784-97e9-a3dbdd67dd26",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Your Profile | 16Personalities",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.16personalities.com/profile",
+            "visit_count": 0
+         }, {
+            "date_added": "13361307852757018",
+            "date_last_used": "0",
+            "guid": "426eadf9-c88d-4f97-aef4-e9a2f5dc77b9",
+            "id": "55",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chain of Responsibility.pptx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://uithcm-my.sharepoint.com/:p:/g/personal/21520166_ms_uit_edu_vn/ERMPUMeeGMJNmW9dQrvDdOQB_PToqiQB-nJAm00g31bVeg?rtime=NKd2Mnp-3Eg",
+            "visit_count": 0
+         }, {
+            "date_added": "13369314971128975",
+            "date_last_used": "0",
+            "guid": "7a6a853d-8d98-45c2-9527-8e1044632fd9",
+            "id": "56",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "BJ徐婉 - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1aQTJNQlwjqN0nHAQa6-Lx27WTRrbweOc",
+            "visit_count": 1
+         }, {
+            "date_added": "13371642024213958",
+            "date_last_used": "0",
+            "guid": "a8f4f370-1911-44e3-9f22-1d4462c9c1ab",
+            "id": "57",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(40) Day 1: Thiết kế Product Card bắt mắt chưa đầy 1 giờ | 30 Days Thực chiến HTML CSS JS - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=3odtU8VL3Mc&list=PLodO7Gi1F7R0zA8RkRHcDgnPduNBmjkb5&index=2",
+            "visit_count": 1
+         }, {
+            "date_added": "13371684981192365",
+            "date_last_used": "0",
+            "guid": "1a48c3bf-ef58-4674-8a43-b3c22c191bcd",
+            "id": "58",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Drive – Cảnh báo quét vi rút",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.usercontent.google.com/download?id=1_DtUIMHYkzxvfyF5PRfEdKhw_J7acwN_&authuser=0",
+            "visit_count": 1
+         }, {
+            "date_added": "13373451611649355",
+            "date_last_used": "0",
+            "guid": "ec5db0c3-85f4-49a2-9d24-ad28971eba01",
+            "id": "59",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(112) ASP.NET Core MVC - Bài 2. Kết nối Database - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=7SgVx1owKJQ&list=PLMj55unlrBck9kCpTsVnR2S3aIrgxEk4V&index=2",
+            "visit_count": 1
+         }, {
+            "date_added": "13375174702066347",
+            "date_last_used": "0",
+            "guid": "15e69777-8d45-40a5-9c0e-464116afed5f",
+            "id": "60",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13377003297064536",
+            "date_last_used": "0",
+            "guid": "93472be4-c4cc-45f8-8640-d8a2ea66c3cf",
+            "id": "61",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "material library - Dart API",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://api.flutter.dev/flutter/material/material-library.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13378833776843647",
+            "date_last_used": "0",
+            "guid": "087c696d-cfc1-47b5-9c14-dc0dc9a946b8",
+            "id": "62",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Available Pokémon – Pixelmon Wiki",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pixelmonmod.com/wiki/Available_Pok%C3%A9mon",
+            "visit_count": 1
+         }, {
+            "date_added": "13382515232179001",
+            "date_last_used": "0",
+            "guid": "375506bd-f6ea-420f-890b-a2c6f7dd7dcd",
+            "id": "63",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "attachments.f95zone.to/2020/08/800017_MyRealDesire_walkthrough.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://attachments.f95zone.to/2020/08/800017_MyRealDesire_walkthrough.pdf",
+            "visit_count": 1
+         }, {
+            "date_added": "13394614574944978",
+            "date_last_used": "0",
+            "guid": "15ea7920-a9aa-448a-a852-deb0e5485e39",
+            "id": "8",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13394614574944817",
+            "date_last_used": "0",
+            "guid": "2946a33f-51f6-49f9-8182-19db739cf628",
+            "id": "7",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13394614574944458",
+            "date_last_used": "0",
+            "guid": "2d2b8144-fff8-45ef-a70b-fbe52c371bc8",
+            "id": "6",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=246817",
+            "visit_count": 0
+         } ],
+         "date_added": "13394614574764212",
+         "date_last_used": "0",
+         "date_modified": "13394617451046646",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13329729821718573",
+               "date_last_used": "0",
+               "guid": "2bb0aae6-3676-4967-9cb8-b6d88b727627",
+               "id": "16",
+               "name": "Nâu và Xám Thanh lịch Đường kẻ Thông báo Cập nhật và Báo cáo Trình chiếu Video - Video Presentation",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.canva.com/design/DAFkLfk8y34/Yuv6taEmHZbWrO0-84vCFQ/edit",
+               "visit_count": 0
+            } ],
+            "date_added": "13325667770586317",
+            "date_last_used": "0",
+            "date_modified": "13329729821718573",
+            "guid": "8ded6703-0359-40d7-a7d0-121dd19f8aac",
+            "id": "15",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "46d2cbe6-332d-4d9d-91b4-e9228d506760",
+               "id": "18",
+               "name": "Google Drive - Virus scan warning",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/uc?id=1MWKqA848ItizsmSafnSLvVKdrdemoYV9&export=download",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "cfed2aa5-ef47-4dbe-93f5-e2f5797723ec",
+               "id": "19",
+               "name": "(G18VN)VH-Eternum-0.4_pc.rar - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/file/d/1MWKqA848ItizsmSafnSLvVKdrdemoYV9/view",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "75e6bd77-05b5-4ead-a423-660aa3abfbbe",
+               "id": "20",
+               "name": "(512) Lập trình Unity 3D - Buổi 1 - Giới thiệu Unity editor - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=MGj9GKoK8O4&list=PL33lvabfss1wO1v5j9J5PHsbkQRlmo7KD",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "a822530b-bee0-48d8-9ad5-a12f29c63a70",
+               "id": "21",
+               "name": "[g18vn]MyRealDesire-Ch.2Ep.4Part1-VH.apk - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/file/d/1zR_tAoK3oMnaLh41M7rjTWb71uoquAIS/view",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "b01cd31b-7686-4ef7-a5ab-340611464216",
+               "id": "22",
+               "name": "(624) How to make a CARD GAME - Unity Tutorial 2022 - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=C5bnWShD6ng",
+               "visit_count": 0
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "412700bb-eb4f-40da-b365-9c89c238bd13",
+               "id": "23",
+               "name": "Video CONVULSION - TWITTER @HOC_18_2.mp4",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://vanfem.com/v/r5d-n6henyd4rj2k",
+               "visit_count": 0
+            } ],
+            "date_added": "13325667770586479",
+            "date_last_used": "0",
+            "date_modified": "13325667770586479",
+            "guid": "ec658506-8167-4a09-8418-ae19428adead",
+            "id": "17",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13394614574764215",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13309895700293641",
+            "date_last_used": "0",
+            "guid": "57515c2b-73c6-48f8-bb4f-af454fa78bd9",
+            "id": "9",
+            "name": "Google Drive - Virus scan warning",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/uc?id=1MWKqA848ItizsmSafnSLvVKdrdemoYV9&export=download",
+            "visit_count": 0
+         }, {
+            "date_added": "13309895709517338",
+            "date_last_used": "0",
+            "guid": "afd57165-4538-4552-bbcc-0fd23b3cd88e",
+            "id": "10",
+            "name": "(G18VN)VH-Eternum-0.4_pc.rar - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1MWKqA848ItizsmSafnSLvVKdrdemoYV9/view",
+            "visit_count": 0
+         }, {
+            "date_added": "13310060452097877",
+            "date_last_used": "0",
+            "guid": "03cd5e3d-c707-4775-abb5-d6b9c80c12f7",
+            "id": "11",
+            "name": "(512) Lập trình Unity 3D - Buổi 1 - Giới thiệu Unity editor - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=MGj9GKoK8O4&list=PL33lvabfss1wO1v5j9J5PHsbkQRlmo7KD",
+            "visit_count": 0
+         }, {
+            "date_added": "13310383418703975",
+            "date_last_used": "0",
+            "guid": "4e529622-2292-4e5b-963b-d12fe320c40f",
+            "id": "12",
+            "name": "[g18vn]MyRealDesire-Ch.2Ep.4Part1-VH.apk - Google Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1zR_tAoK3oMnaLh41M7rjTWb71uoquAIS/view",
+            "visit_count": 0
+         }, {
+            "date_added": "13312659691713153",
+            "date_last_used": "0",
+            "guid": "2b464a63-b2f8-46b7-a743-021724c3855c",
+            "id": "13",
+            "name": "(624) How to make a CARD GAME - Unity Tutorial 2022 - YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=C5bnWShD6ng",
+            "visit_count": 0
+         }, {
+            "date_added": "13320135490086443",
+            "date_last_used": "0",
+            "guid": "2879f54d-505f-4e21-9b6c-bef9e373125a",
+            "id": "14",
+            "name": "Video CONVULSION - TWITTER @HOC_18_2.mp4",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vanfem.com/v/r5d-n6henyd4rj2k",
+            "visit_count": 0
+         } ],
+         "date_added": "13394614574764216",
+         "date_last_used": "0",
+         "date_modified": "13320135490086443",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13394614585138423",
+            "date_last_used": "0",
+            "date_modified": "13394614585138424",
+            "guid": "a4f7546c-7431-4c40-991e-5d20738403db",
+            "id": "64",
+            "name": "Workspace 4",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "7efa28ea-fc00-4bd8-9adc-88001fdd62c0"
+         }, {
+            "children": [  ],
+            "date_added": "13394614585138564",
+            "date_last_used": "0",
+            "date_modified": "13394614585138565",
+            "guid": "15dd3bfd-09ed-4a35-ac67-aa9634c7ef4e",
+            "id": "65",
+            "name": "work",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "1a9ad9f3-401f-4198-80de-d81ba3fdcac1"
+         }, {
+            "children": [  ],
+            "date_added": "13394614585138611",
+            "date_last_used": "0",
+            "date_modified": "13394614585138611",
+            "guid": "ce9b8211-2c52-4b85-8263-53cd10d0d4e6",
+            "id": "66",
+            "name": "OntapCSDL",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "32dfab0d-ddcd-4512-9b01-1abe7155a6fc"
+         }, {
+            "children": [  ],
+            "date_added": "13394614585138655",
+            "date_last_used": "0",
+            "date_modified": "13394614585138655",
+            "guid": "0168794e-4e2a-4fae-aaa7-5db12ea5f3dc",
+            "id": "67",
+            "name": "doan2",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "099ec2c2-0527-452c-bf08-f6f04b35e036"
+         } ],
+         "date_added": "13394614574764218",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000006",
+         "id": "4",
+         "name": "Workspaces favorites",
+         "source": "unknown",
+         "type": "workspace",
+         "workspace_id": ""
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCL37iXyXAQAAEgAqGEhFcWFPS0xIU3hsUCtranY0VG1hR1E9PUgDoAYMErUBCD0SsAEKHDQxWUJrS3dkWkNFakw4SDVCRTg5TUFIdDN5Yz0SJDkzNDcyYmU0LWM0Y2MtNDVmOC04NjQwLWQ4YTJlYTY2YzNjZhgAIAIoAjCi+aDk9zI4gPrElrYyQLSloOT3MkocVWNIN0ZlNjB1ZFhtRnpjWThHSUtIa3p0cUFNPVonIiX/////AAAABd41RmdvWldycUNFSVBDUy9OanlQWHljMHQzdGc9ZfmbwazCPgJgBRKwAQgvEqsBChwwQkt0ZUJNeWh5OVFrWCs3MGhTRTZSY3JpbVE9EiQ4NDgxNzc2Ni03MDA5LTQ1YjUtODZmNi03Y2Y5ZDMxYWNhNjEYACACKAIw5+ag5PcyOPa6+JexMUCupaDk9zJKHHdJYUxWdzVFeXdmaEtXYVkrck9ONFlXeU9sTT1aIiIg////+0RGU3JwUnZMKzRVcFRCRUFTQllHdzRBV3k0TT1lqohMTsI+AmAFEq4BCCASqQEKHDF2RDFRMjlXbjhjR01oZ2FJQ0I5VmNIM0ltUT0SJGU5YTk1ZjNkLThiN2MtNDA4My1iMGJmLTNhMjY5NzUyNThlNhgAIAIoAjCv+aDk9zI42tbo4OwwQKuloOT3MkocRXp3ek92VHRRb04yK3l1UkxNZExkRm1TMG1ZPVogIh7//npXT0hheDlFZFVKZGEwUFh3dGlGdUFnL2VhVT1l5SCxXsI+AmAFErQBCDMSrwEKHGhtTDNwcEpzKzd0RVZJZFJQU0w2YXVUL2JMVT0SJDk3ZjZhNTliLTU1OGQtNGI4OC1hYzE5LWYwNzliYTEzMmQ3MRgAIAIoAjC4+aDk9zI4j9C/nOQxQLCloOT3MkocZ2xPemhNZm85MHcrNm5VVnlCYTZjc2FBVFVZPVomIiT/////AAAABHQ0ZGR0UkNKcEJVWFU2N1BDOGJzV09kcCtBdz1l1z9JecI+AmAFErABCC0SqwEKHG1qRmxtU2dLbUFEVDgxWU9LM2oyaDU5SXFqYz0SJGY1YzYwOGU3LTg4OGEtNDY4Mi1iMDAxLTMxOGNhNzU2N2I3OBgAIAIoAjC0+aDk9zI4msvFl7ExQK6loOT3MkocUlFJSGEvUWxsZUdkdjI1Yi9naXU1cG4xcG84PVoiIiD////sN1Rzblpyb0Y5WXpEaHNzMnEwbkJhamorL1JzPWWqiExOwj4CYAUSrwEIJRKqAQocSmRmM3M0UTVnVExMRGt6YjFveFhWSXFFdTFJPRIkOWE0ZjQ1MDQtOTQ1My00ZGNhLTk1YzktNzViODhhYWI2N2U0GAAgACgAMPWK7ff2MDi5jO339jBAuYzt9/YwShxiRC9BRjBCeVJBV3E0eXROWEJJbzJUYTlZYVk9WiEiH///93UwRDVPZGQzbHdMYVVQSFpWaERLUldDb2NGaz1lAAAAAMI+AmAFErUBCDkSsAEKHDBNbXM5RjVPM2JWekxBVHRLbDArbXJnTjJxZz0SJGE4ZjRmMzcwLTE5MTEtNDRlMy05ZjIyLTFkNDQ2MmM5YzFhYhgAIAIoAjCw+aDk9zI4ndSKmqIyQLKloOT3MkocL3dlbGI3eUw0ZEVwTVRtUlhTN2FPQlFoTE5VPVonIiX/////AAAABP15UWxLRVpra1cxemlUZDc3OVpONWFCSnRpa0k9ZTj5OTPCPgJgBRKuAQgfEqkBChxSSENrcXRkb2VzUVhSSE1Eb21Kb1lBM0QvQmM9EiQwZWJkYjIxZC0wY2Y1LTQ0ODEtYjVjNC1jODM2OTExMzFmZGIYACACKAIwtfmg5PcyOIboqLbsMECrpaDk9zJKHHJWcWZsbzBoSFhsY2JZM0lpVWRQM1VuWFJpST1aICIe//1qNnpWUytvaWd1aW00V05WNEZESU1haCt4WE09Zb5uqknCPgJgBRK1AQg8ErABChxSZVBIemJwVHBpdU1SUkd0OTVDMVVKVDQ1ME09EiQxNWU2OTc3Ny04ZDQ1LTQwYTUtOWMwZS00NjQxMTZhZmVkNWYYACACKAIwqvmg5PcyOIjd0K6vMkCzpaDk9zJKHFZmUy8wT25CdzVRZHA0MTFRRng2OFhSL0pDQT1aJyIl/////wAAAAW8Y1NwME1sWHFnU0JKaFhXYmVqODBvbEc1eFpFPWX9nIxKwj4CYAUStQEINRKwAQocWkptUkZ3QjJDemkxVy8zNUNIZUdNZEZKSER3PRIkMmNmZWE4ODEtZDcxMC00OTI3LWIwYWYtYjBlMmEyOWIyYjJkGAAgAigCMLL5oOT3Mjjy1Oyo8jFAsKWg5PcyShxwamIxVmRka1B3VllZZVVvMzVqeG8xZ0FKY009WiciJf////8AAAAE3XZkb2kzTzNUWXl6L29veXloRVAwK2x0K3lIST1lFSjEVsI+AmAFEq0BCBcSqAEKHDgzWTBKUlhQMXg2RDZJVlYzcjlWbEVGRjduRT0SJDQxMjcwMGJiLWViNGYtNDBkYS1iMzY1LTljODljMjM4YmQxMxgAIAAoADD/iu339jA4kI7t9/YwQJCO7ff2MEocVjBYRUVhSStBenpDMitIL1U0aTFTb2tOZG9FPVofIh32STQ4VlgrbmRMcGk2TGxVRzB6VEZBQ3JZRUdjPWUAAAAAwj4CYAUStAEIMhKvAQocMTR6Tkl6ODFUUENmQnZkYnFtN3g1RU9ZYnZzPRIkNzY0ODlkYWItNjdiMS00ZTIwLWI1ZmQtMTBmNDgzZDQwOTcwGAAgAigCMLH5oOT3Mjjg9sLX4jFAr6Wg5PcyShxIekV3Q3YyWjZub2FXclI2cFAxS1RTM3Nwd2M9WiYiJP////8AAAAEUWlSamx5bmpUZHZWbytGdWlId3RYY1NPNFowPWX6kd7bwj4CYAUStQEINhKwAQocdnJWKzc2d0I4bkR5TkhzV29vVStQSzE1L2NjPRIkNWQ2NWQ5MmUtMTc0OS00Nzg0LTk3ZTktYTNkYmRkNjdkZDI2GAAgAigCMLf5oOT3MjiP1eyo8jFAsaWg5PcyShxoS09VYzV4Q3dlWURLblNncGQ0c0xNbzZySjg9WiciJf////8AAAAE7jhySFY0MW9iMTBZb01STFlpQXVuQzBWVTk4VT1l1c1NoMI+AmAFErABCC4SqwEKHDZGRXpTU25qZWlCNERLbVpZSDFlY0VyL0laYz0SJGI5YzY4ZmU2LWE4ZTktNGVjMi1iMGI5LTE4YWQ4ZmNkYzVhMBgAIAIoAjCm+aDk9zI4ssnLl7ExQK6loOT3MkocTDIyT2tpaHIrZDQyejN4S3JweHFZRjNTQUNvPVoiIiD////2aU5Bc2FQV1JiZytXWXRtNmFxTGNzWTdYWGFJPWWqiExOwj4CYAUSsAEILBKrAQoceWdqdWIyZkV5YUZUWmxId2tFQVdBU285ZVFzPRIkZmE4ZDg2NWQtNzQyZi00ZWI0LWJmMjAtNmYzM2I2OWM2MTEwGAAgAigCMKn5oOT3MjiL0p37rjFAraWg5PcyShwwMlJMbXdqYzc1ekNlU0k5cTJhU0JQSzdVYzQ9WiIiIP///9l2a041a2RmT3Q1OFpkQS9STUV4dVJXdGxBM1E9ZfqR3tvCPgJgBRK1AQg6ErABChxhNDZtSjNKYnNiYU5EcktsRzVEaVNEQzVHak09EiQxYTQ4YzNiZi1lZjU4LTQ2NzQtOGE0My1iM2MyMmMxOTFiY2QYACACKAIwqPmg5PcyOOzJyK6iMkCzpaDk9zJKHEM1Mi9EdWZqczFuV2dGZGZBM2RaVkcxdDd3OD1aJyIl/////wAAAAT+SnE0cGZvVFlWdmM0V0E3QWUxd3lQbHFkMUhRPWX6kd7bwj4CYAUSrwEIKhKqAQoccjV6SmdtMkNQZkRBaTZKSzVoaGVRVkNEUVlZPRIkMjNkMDdjYjAtZGMzYi00OTBmLWFjZWQtMmYyNjBlZDJlYmY2GAAgACgAMPeK7ff2MDjojO339jBA6Izt9/YwShxMc29jUHFrUXlQOFFwcGdYMjN4Sk9pak5JeE09WiEiH////2ZmNURQVWlKWDFVcmJpWXd5bXQ5b2dYL0tQST1lAAAAAMI+AmAFEq8BCCcSqgEKHDBIWjB4MXVucUVxelp3Uzg0QkdVNi9oNDNQMD0SJDFmZjE2MmQ2LTFjMWEtNDAzNC1hYWRiLTFiYTRkNTM5MGM2YhgAIAAoADD2iu339jA41Yzt9/YwQNWM7ff2MEocUzd5dlh5NytYTDV2NXRScWhkbmJoc3B6bFlrPVohIh////1mV2J4bktEKzQrVE9JTHpoOXZLU3Y3bkxSZHM9ZQAAAADCPgJgBRKtAQgMEqgBChxDYmZpVUVhTDVzMjJRb1RRWk4ySXlUS3FybFE9EiQ0ZTUyOTYyMi0yMjkyLTRlNWItOTYzYi1kMTJmZTMyMGM0MGYYACAAKAAw8teUiuowOMTblIrqMEDE25SK6jBKHFlqZ2s1dXdidTZEK2F0OEhrRnZDdzdSZThLbz1aHyId6W1YcXpSMzhTSnIxcnlUdWVGWjhtMWpCSHdaaz1lugosUcI+AmAFErABCDASqwEKHGxnU3FhckU3RXJkQmVDQVNRTDJuamVFWVc4Zz0SJGYxOTVmZjMyLTAwZGMtNDcwOC1hN2NlLTljYmQ0OTkzMTk1NxgAIAIoAjCt+aDk9zI4p5eqmrExQK+loOT3MkocNE1jeG9rSko0WXh0cy9WOUgxaDZLQmdQSnUwPVoiIiD////9RnZJYkM1NUJhU0wrYTNBRkdjaVFuMTJ4b3k0PWUJqzCgwj4CYAUSrQEIERKoAQocODgzS3RLdU1Sa1NTN1lpalRoSnpUbWQvMHdrPRIkZWM2NTg1MDYtODE2Ny00YTA5LTg0MTgtYWUxOTQyOGFkZWFkGAAgACgAMPmK7ff2MDiPje339jBAj43t9/YwShxmWGRTVnNBeU80S0ZYcE5wS04rTjRGOTkxcWc9Wh8iHbxHWndXVzliMEFBb2tOa2dUa3ZaREp1a3NrUEE9ZQAAAADCPgJgABKuAQgbEqkBChxlL3VsNjhneFR4NWF2a3IxRlNqSElpNkUzUWM9EiQ3YTQ0NTc1ZC0wNzIzLTRiOWEtYjFhYy00MTU1MzJiNjkzNTcYACACKAIwpfmg5PcyOOnZlIrqMECppaDk9zJKHEx5TUttTTZFT2xnSzUyVVlaRkxIM1Z5d1lDTT1aICIe/9p4U1NSZjRpVk1IbGZLZ05Ka0NxdHJrdVRGQms9ZTj5OTPCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRkN2NlNTk4MS0yMzkwLTViZGYtOWJhMC1kYmQ3ZGEwNmI5YzEYACAAKAAwz+6z3bIwOLHB96nwL0Cxwfep8C9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrwEIJBKqAQocazdSZEdRWFBzQVowNFRrRnE0a3RMeEhlY1NvPRIkN2Y3YjcxM2EtNmJiYy00MWZiLThlMjEtMTY2Yzc4NDVmMWY0GAAgACgAMPSK7ff2MDiljO339jBApYzt9/YwShxRWTF0eHdFa3RRMnFLS3pLUk9Mb251d2MxeDA9WiEiH///7m1jT1hwSE1ESVp6eDZjS0pSaUkwL2dqajlwbz1lAAAAAMI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGQxZGQ0M2JiLTVlOWEtNTIwYS05NDAzLTkyYTJjZDRlYmJmYRgAIAAoADDP7rPdsjA408D3qfAvQNPA96nwL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABK1AQg0ErABChxtMTZMRExuTVZwRXArajBTaC9rc0psTFpjeDQ9EiQ3MWNkYmE4NC1kODlmLTQyMjMtYTUzYS1jNmNmOTA0MDcwMjYYACAAKAAw25Pzr/AxOM/+8q/wMUDP/vKv8DFKHHltK2xsY0pxNlR6Smtyakp1dzQzSlRKeE5CTT1aJyIl/////wAAAAS6QjdGWUxyaXJOTWNtMXFNanhyMmRFUzFzd0Z3PWV3cGyjwj4CYAUSrQEIGBKoAQocMkxJbFM3bTBoUllUNWRrYUxmMlhWSGdwbno4PRIkZDFlY2JlZWQtNGNkYS00NzZjLWEwOTctODU4NGQ2M2JkNDA0GAAgAigCMKf5oOT3MjiJ2pSK6jBAqKWg5PcyShxoZG9seFhLYmZhdFhzSXloWkNMWlY0NENud2s9Wh8iHexaRS8ydXp1M2hSZm5DdVhsako2d0s5YTJIRDQ9ZWUUFQ/CPgJgBRKvAQgmEqoBChxXYzZPNTJnaWhXYmFOckdmajBxMUxwc0ZRMDQ9EiQ3MzdlZjIyZi1mNWM2LTQwZjYtOGM3Ny0wMGMyZTQ3NjcwZDIYACAAKAAw+Irt9/YwOPyM7ff2MED8jO339jBKHEhkeXhUUUgwK0xPbmRKTFo5cVFvNW9FRjdwTT1aISIf///7VnFkZTJycVNHTGhac1lONFJRU2FKbitOcEpBPWUAAAAAwj4CYAUStQEIOBKwAQocK3l4ZkxOV2kzNkcwamxtZGFXZG52amFwNUU0PRIkN2E2YTg1M2QtOGQ5OC00NWMyLTk1MjctOGUxMDQ0NjMyZmQ5GAAgAigCMKP5oOT3Mjib3brEmTJAsqWg5PcyShx1K243SFBJV3JBSXVhUFZ3ejFuZFdKaHYxclk9WiciJf////8AAAAE+0cxV1VRSWZCTHI0VVNJRWs0L3kzc0kwUnoyRT1l+pHe28I+AmAFEq8BCCISqgEKHDZHSDlDTzVCS0lScnp6bTBGdythNEdqNzZpQT0SJGUxYzkwNzNkLTAyMjgtNDk5ZC1iYzJmLTIzMGQwOGZiZGYxZRgAIAIoAjCh+aDk9zI4xa3kne4wQKyloOT3MkocN01jOUtaZ241Rk9jdDBhQXlETERlVG5WQWNzPVohIh///7hXRVY5WGZ2aGRmbXNRWjE4czVDMXlzditZaU09ZUQI/X3CPgJgBRKtAQgVEqgBChxGWDg3OGl1eEhvbVk5YTBDTmQvZnFmRVZQa0E9EiRhODIyNTMwYi1iZWUwLTQ4ZDgtOWFkNS1hMTJmMjljNjNhNzAYACAAKAAw/Yrt9/YwOOaN7ff2MEDmje339jBKHDdnMXRncDFEZlEvYk1wYjRKb3NsYVBBWXM3MD1aHyId23BObVFwbURuZlNaVFFYNnQ4Zm45Vk5YRXBBUT1lugosUcI+AmAFErABCCsSqwEKHHNpaU9aa1ZNTTFzRWZSVk9LZUtQWFowSWZjST0SJDgzMmMyMmQ3LTBjMDUtNGQwYi05NzVlLTdkOWRjMDQ3OWY3YxgAIAIoAjCf+aDk9zI4gb39lI0xQK2loOT3MkocUzVJY2E1ZnMyUlkyR3dCNlpWM3p1YXRkck9vPVoiIiD///+zOWUwcUphcTdqLzkwOThqMmtycEthV1U0aXlnPWWbW6Unwj4CYAUSrQEIFBKoAQoceTVBelpKbEw0dkdVdGwrY3g1SDFSejdTbzJ3PRIkNzVlNmJkNzctMDViNS00ZWFkLWE0MjMtNjYwYWEzYWJmYmJlGAAgACgAMPyK7ff2MDjRje339jBA0Y3t9/YwShxDeWR0VEx0bzllTWxOajVTcmM1QVAwOUpxaG89Wh8iHbdqQ3F5bFF3UFJaYjVMeUNBRFB1NGF1eStxWU09ZTj5OTPCPgJgBRKuAQgdEqkBChw5SUNtWFFLQWhmWUVNQWtYZTg3N05GbzI2ZFU9EiRiZDI1MWM2Zi04MTNkLTQ0MTMtYmNiOC0yZjFlYjQ1MTUzOWIYACACKAIwnvmg5PcyOObalIrqMECqpaDk9zJKHDJKaTZsbTBRN2hBL21kejRyeDRUWTlRZGIxYz1aICIe//ZtUmt4Nk9hRzE1WDhyRWVnVWtSMHBLazAyR2c9ZTj5OTPCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRiYTJjZGY1Yi00Mzg5LTVlZjMtYjM1Mi0yNzdmNzU5ODg0MDUYACAAKAAwz+6z3bIwOMTA96nwL0DEwPep8C9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrAEIExKnAQocU1B5WXFZeTE3ZFhSdno0NDkvUDNMKzhLdmM4PRIkY2ZlZDJhYTUtZWY0Ny00ZGJlLTkzZjUtZTJmNTc5NzcyM2VjGAAgACgAMPuK7ff2MDi7je339jBAu43t9/YwShwxcFFWNU5JS2VndUNzYm5UdWFReUN6Y1NhR0U9Wh4iHG5aSk1mdTJ2ZWRLbEkxbkFpZVltQU9QMU5Xcz1lugosUcI+AmAFEqwBCBASpwEKHCtLVXBBLzZtaFVQRjFINndhaHpINVY4OWxsRT0SJDJiYjBhYWU2LTM2NzYtNDk2Ny05Y2I4LWI2ZDg4YjcyNzYyNxgAIAAoADDJgeWIhjE4jIjliIYxQIyI5YiGMUocY3doZForKzJweVJJZkdkK044Tk1FdUpHMmJFPVoeIhxzUWdCTTlocEM4b1o2ZERkenFuUU9RU3JqKzg9ZVIdo2XCPgJgBRKvAQgpEqoBChw2aVpEcEJyWThRSGZBeHB5cit1Smc1aDJXS1k9EiQ2NDE2NmRlYi0wMjU3LTQzYjMtYjQ3ZC00ZGUyNjJmMDk3YmYYACAAKAAwgIvt9/YwOKSO7ff2MECkju339jBKHHl4UDdvZ3BNTk1aNWxiNm1MRmRBYWpxcEZSST1aISIf////R3pWeGtQTUdMSlBFdGEwR25qRlJSd04zbDJVPWUAAAAAwj4CYAUStQEIPhKwAQocdU1URjFKUGV3MkMrK0NVM3ZnNWRvY1lzRDRRPRIkMDg3YzY5NmQtY2ZjMS00N2I1LTljMTQtZGMwZGM5YTk0NmI4GAAgAigCMKv5oOT3MjjLzbD/vDJAtKWg5PcyShxmVFlYeVNtc2Vhc0pDWU52TWtqTkoweFJKVjA9WiciJf////8AAAAF729sUVdVbkVKOThPQVRsckU5Q1NjNmVHcmhpWT1lMJOpjMI+AmAFEqwBCA8SpwEKHFlxdk4rYnBFZjdSekhFaXA4a0Z2TnJkYkRHWT0SJDhkZWQ2NzAzLTAzNTktNDBkNy1hN2QwLTEyMWRkMTlmOGFhYxgAIAAoADCBi+339jA4uI7t9/YwQLiO7ff2MEocenBwN2JHNS8wTDdpL0RiUUd0R3RnaHV6VGljPVoeIhx5UTRjaGw3c0N6TE1JTldKNEJveEJMZ1JpWXc9ZQAAAADCPgJgABKtAQgWEqgBChxBT3FURVRNWDR0VmJFUXZTQ3M0MzhGUU1ZUTA9EiRiMDFjZDMxYi03Njg2LTRlZjctYTVhYi0zNDA2MTE0NjQyMTYYACAAKAAw/ort9/YwOPyN7ff2MED8je339jBKHERySW5mT3JZWnlPNy9tVjhYNjZ4a2JRanpMdz1aHyId7TkycmZtRDlsS1Nnb0tFNTUyclhSTjdQV29XMD1lOPk5M8I+AmAFErABCDESqwEKHHhhc1orazRoZFpqOXcvcUxTV0Vmb3IvODFkOD0SJDdjNTM5ZDE4LTc0ZDQtNDE5YS1iNzQ1LWJkNmUxMDk3ZWMzNRgAIAIoAjCc+aDk9zI45tDA1+IxQK+loOT3MkocRXdpU3U2eU10V0RVaURoN2UreXgrME8vakFBPVoiIiD////+SWlkUEdwRXJraTF1QWFTZEYxYnlLWi8zTHpjPWW+K+5Hwj4CYAUSrQEIDhKoAQocc2dCcUF4cEtiNUFGaDEwd21ab3JHWHBLbnFZPRIkMjg3OWY1NGQtNTA1Zi00ZTIxLTliNmMtYmVmOWUzNzMxMjVhGAAgACgAMIvglIrqMDiD4ZSK6jBAg+GUiuowShw1WEZvNEdlcksyTVZ3aXBVWjU1OHR4bU5idGM9Wh8iHfpXcnFjSnV4ME85VmdyWDdWSmVoMFNmbEZlQmM9ZQAAAADCPgJgBRK1AQg3ErABChxHeXNUSmpOYWNTTHVBRkdnbU9ycHJwMXdpUDA9EiQ0MjZlYWRmOS1jODhkLTRmOTctYWVmNC1lOWEyZjVkYzc3YjkYACACKAIwm/mg5PcyOI6Or9r7MUCxpaDk9zJKHHpZcEVzaWtuWjA3MHJ2RURVWjRHa1V4dHcvST1aJyIl/////wAAAAT3ZktPWTMxSm5XSmlzK1p1MmNhYS9qSVhlVUI0PWWkLI4hwj4CYAUSrgEIIRKpAQocVFJ6WkwwNURBUmlTRTVBQklNanpiZGZBTUYwPRIkMDI5MjNmMGItYjExOC00MmY4LWJmNGQtNjIzNmQzYWFiMzRjGAAgAigCMKD5oOT3MjiFx8eB7TBArKWg5PcyShxITTFsYVI1d0ZwV2tsbzJ2c2YxYUVGSlVNREU9WiAiHv//cDFHRGxyRlU5RVR2b0JjR1BmMHpuVktTelJJPWU4+Tkzwj4CYAUSrQEIGRKoAQocMVZLOHlicjRWd2RzZForU2JGSnNsWGoxMHBNPRIkMGM0YjI0ZDUtMWRlOS00M2UxLTliMTItZmNjOTI5YTZkNDFiGAAgAigCMJ35oOT3MjiS3JSK6jBAqKWg5PcyShxETEJ4OHBqbDBxNFl3VE1uWkVCdEYydFhCNkE9Wh8iHf9qdGExTG1IcHN1SmFPVDRXT054aGR4ZUNKQUk9ZRJ0OZrCPgJgBRKtAQgNEqgBChw5SElsQm1VQVJlVEVPU0hidkM1Um9rN29OUDA9EiQyYjQ2NGE2My1iMmY4LTQ2YjctYTc0My0wMjE3MjRjMzg1NWMYACAAKAAw9teUiuowONHclIrqMEDR3JSK6jBKHGN2T0dneG55S200RUNmYlNFdEl0R2g2SXpKWT1aHyId9DR4WVR4UXFzM2dSTGNHY2R4aTQyZlRhR3h1Zz1lOPk5M8I+AmAFEq8BCCgSqgEKHDJteWpETzI4c3B6Yk5DcERRSmZtamhNUDRRRT0SJDEzZGZkODIxLWQ0NmYtNGM1ZS05NTQxLWE5NjQ5MWJjYjI2ZhgAIAAoADDxiu339jA454vt9/YwQOeL7ff2MEoceDRmQkhjaSt5bW5odVJTYzVieFVHSlRsT0NrPVohIh////5xMFBpUGY1aVZQc0NneU8vVmQyakxyNmNta289ZQAAAADCPgJgBRKvAQgjEqoBChwvTFdRUlBlTTFLVE8xSkxzdms1WDMzTndjclE9EiQ0MjhlM2Y5Yy01Nzk5LTQ0MDMtOTliZC1kZGFjYjlkNzM3Y2QYACAAKAAw84rt9/YwOJGM7ff2MECRjO339jBKHGR3YjlZbVRqSHU4RGlJaFMwWGpuNldmZXROST1aISIf///cTVlreE5lWk1pdHVmQnpyNXRTVTljVDNsT1VVPWUAAAAAwj4CYAUStQEIPxKwAQocWWNjdEN6Y2Vrc1IrYVBoR3ZsdHRaV0F6TEhnPRIkMzc1NTA2YmQtZjZlYS00MjBmLTg5MGItYTJjNmY3ZGQ3ZGNkGAAgAigCMLP5oOT3Mjjz3erayjJAtKWg5PcyShxlVVdFdFRxM0gxa3hMNGpKK1pqckQ1UUFoREE9WiciJf////8AAAAF93pLTGJJL1lVd1gxNG85dEl4Y0w2WDJTZ2x4az1lFtlTesI+AmAFErQBCDsSrwEKHERhTmE4SDBGNlhUeFVRY2VJL2tib0p6UXZaST0SJGVjNWRiMGMzLTg1ZjQtNDlhMi05ZDI0LWFkMjg5NzFlYmEwMRgAIAIoAjCs+aDk9zI46ZH7+KgyQLOloOT3MkocVWZzVzYweUJqaHdtQ1ZtZlc3UHBXbUVTUHFZPVomIiT/////AAAABXhzWWw1T2p0NmtMYnV0UHgxdTR0eFBJbEkrWT1l/ZyMSsI+AmAFEq4BCBoSqQEKHGw2dTZreksrUHVTWFFDZ2xOTnkvNmlqcC9ZWT0SJDFhYjMzMWY3LWNlMTMtNGZjMS04YmFjLWY4NDQyNmUzNDI4NBgAIAIoAjC2+aDk9zI44NyUiuowQKiloOT3MkocZWVvN1VFd0ZaTHFldENMZCtMN3hMc3oyQ1o0PVogIh7/tWhFbkVhNVdUc0FwUEpRZTJJeUp6WlVmQXhsWT1ly3C2qsI+AmAFEq4BCBwSqQEKHGJLWTIvYkdhTE03d2NVeUYrS1hSUzR1WDNocz0SJGYyZWNkZTdmLWQ4NTctNDAzYS05YzE5LTNhZjZhYzljMmVmYRgAIAIoAjCk+aDk9zI4m9mUiuowQKmloOT3MkocdHBSb0dsQ25TMXdhM0ljZlhEZ1BuRmVZb2k4PVogIh7/7WMzbllkYnc3UDJMNHlCUjIzSW9oR1JNQ01tWT1lOPk5M8I+AmAFEqwBCBISpwEKHHRJd0FaVHUyQ0R1bzJOek5kMDNSS1AwMUtPYz0SJDQ2ZDJjYmU2LTMzMmQtNGQ5ZC05MWI0LWU5MjI4ZDUwNjc2MBgAIAAoADD6iu339jA4o43t9/YwQKON7ff2MEocWGpSb25tNzV3anNvZnYwQjU5L1BZN09GNWhBPVoeIhxiNk83YlFHdmxJc1dyTWhKdGNwblpwNW9KN0E9ZQAAAADCPgJgBRKsAQgJEqcBChx0RDZ4aUZCazQxeExCRmJpSFFxZldpNkhxL1U9EiQ1NzUxNWMyYi03M2M2LTQ4ZjgtYmI0Zi1hZjQ1NGZhNzhiZDkYACAAKAAw8deUiuowOLTblIrqMEC025SK6jBKHFFDUk1tZXN5ZERWWWZWNWJieFpCalZWMzdJYz1aHiIcSkZubklXOVdyNGsvMlFVbDhCZy8vMlJDMkdrPWUAAAAAwj4CYAUSrgEIHhKpAQocTUh1ckZSeUlTL0tWbWkxaE5WY0VtMk9WT05nPRIkOTE1ZTc0YjgtMzYyZC00YWJiLTgzYTctZWUwZDYxYjYwNDU5GAAgAigCMK75oOT3Mjix3JSK6jBAqqWg5PcyShxHa0FMbng1QlZZMDZEbXg1ZDd5V2pmZFVKeVU9WiAiHv/7TTVQQ21Gc21Ua2hWejhDN3NZVnE2VkRCby84PWWR84SNwj4CYAUSrQEICxKoAQocVGpLa0VPT1J0RGtIa2wwYURUN21mZkU0RldZPRIkMDNjZDVlM2QtYzcwNy00Nzc1LWFiYjUtZDZiOWM4MGMxMmY3GAAgACgAMO3XlIrqMDjX2pSK6jBA19qUiuowShwvSEV3aXNzRk12OXBaazJzR01ya05uQVVqbVE9Wh8iHdJqK0JueldKS2dxYldISnBVQ2NLV0QyeFNFSkU9ZTj5OTPCPgJgBRKtAQgKEqgBChwvaFd5UHdUSTVMbEtHUmRSU2pYTGt1VFl0eEU9EiRhZmQ1NzE2NS00NTM4LTQ1NTItYmJjYy0wZmQyM2IzY2Q4OGUYACAAKAAw59eUiuowOLvZlIrqMEC72ZSK6jBKHGpsSFQ1bCt4VkhFSE1TaEk3WXZ3WUMraVU3cz1aHyIdpUh4aDJxM1U1RnhwbkcydzZQS2JpS2Z1ZGpLcz1lugosUcI+AmAFMAA4AA==",
+   "version": 1
+}
