@@ -148,7 +148,7 @@ class _RSVPPageState extends State<RSVPPage> {
                   ),
                   const SizedBox(height: 32),
                   Padding(
-                    padding: const EdgeInsets.symmetric(horizontal: 230.0),
+                    padding: EdgeInsets.symmetric(horizontal: (MediaQuery.sizeOf(context).width)/10),
                     child: TextFormField(
                       controller: _nameController,
                       decoration: const InputDecoration(
