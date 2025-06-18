@@ -116,7 +116,7 @@ class _RSVPPageState extends State<RSVPPage> {
         decoration: BoxDecoration(
           image: DecorationImage(
             image: AssetImage('images/bg2.png'),
-            fit: BoxFit.cover,
+            fit: BoxFit.fill,
             colorFilter: ColorFilter.mode(
               Color(0xFF2C3E50).withOpacity(0.2),
               BlendMode.darken,
@@ -148,7 +148,7 @@ class _RSVPPageState extends State<RSVPPage> {
                   ),
                   const SizedBox(height: 32),
                   Padding(
-                    padding: EdgeInsets.symmetric(horizontal: (MediaQuery.sizeOf(context).width)/10),
+                    padding: EdgeInsets.symmetric(horizontal: (MediaQuery.sizeOf(context).width)/9),
                     child: TextFormField(
                       controller: _nameController,
                       decoration: const InputDecoration(
